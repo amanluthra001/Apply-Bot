@@ -1,0 +1,16 @@
+{
+  "first_name": "Aman",
+  "last_name": "Luthra",
+  "email": "amanluthra804@gmail.com",
+  "phone": "+91-9720622558",
+  "linkedin_url": "https://linkedin.com/in/amanluthra",
+  "github_url": "https://github.com/amanluthra",
+  "portfolio_url": "https://portfolio.amanluthra.com",
+  "current_company": "JIIT Noida",
+  "resume_paths": {
+    "ai": "../resumes/resume_ai.pdf",
+    "ml": "../resumes/resume_ml.pdf",
+    "da": "../resumes/resume_da.pdf",
+    "fullstack": "../resumes/resume_fullstack.pdf"
+  }
+}
