@@ -31,6 +31,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
+          touch applied_jobs.txt
           git add applied_jobs.txt
           git commit -m "chore: save applied jobs memory" || echo "No changes to commit"
           git push
